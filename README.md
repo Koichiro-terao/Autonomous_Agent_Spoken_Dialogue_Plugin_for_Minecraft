@@ -51,8 +51,8 @@ multi-modal-generator として LLM を活用しており、本プラグイン�
 githubから本プラグインおよび依存パッケージのダウンロードを行います。
 以下のコマンドをコマンドプロンプトで実行してください
 ```
-git clone https://github.com/Koichiro-terao/Minecraft_Plugin_debug.git
-cd Minecraft_Plugin_debug
+git clone https://github.com/Koichiro-terao/Autonomous_Agent_Spoken_Dialogue_Plugin_for_Minecraft.git Spoken_Dialogue_Plugin
+cd Spoken_Dialogue_Plugin
 git clone https://github.com/sagara-r/BeliefNest BeliefNest
 ```
 
@@ -94,11 +94,8 @@ call_yourname_by_aiagent: 呼ばれ方
 windows環境の場合、plugin_setup.batを実行すると上記の３つのサーバが起動します。（batファイル内のpathをお手元の環境に合わせて修正する必要があります。）
 
 #### 3.main.py の実行
-新たにコマンドプロンプトを起動し、以下のコマンドを実行すると起動します。
-```
-cd "本プラグインのpath"/plugin
-main.exe
-```
+Spoken_Dialogue_Plugin\plugin にある`main.exe`を実行すると起動します。
+
 ターミナルに以下の記号が出力されれば、実行完了です。
 ```
 start [y]/n:
