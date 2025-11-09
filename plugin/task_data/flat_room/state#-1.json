@@ -1,0 +1,4052 @@
+{
+	"blocks": {
+		"__Vec3Map__": [
+			{
+				"position": [
+					0,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					0,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					0,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					5
+				],
+				"name": "crafting_table"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					1,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					1,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					1,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					1
+				],
+				"name": "wall_torch",
+				"properties": {
+					"facing": "south"
+				}
+			},
+			{
+				"position": [
+					2,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					9
+				],
+				"name": "wall_torch",
+				"properties": {
+					"facing": "north"
+				}
+			},
+			{
+				"position": [
+					2,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					2,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					2,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					2,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					3,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					3,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					3,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					4,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					4,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					4,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					5,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					5,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					5,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					1
+				],
+				"name": "wall_torch",
+				"properties": {
+					"facing": "south"
+				}
+			},
+			{
+				"position": [
+					6,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					2
+				],
+				"name": "chest",
+				"properties": {
+					"waterlogged": false,
+					"type": "single",
+					"facing": "west"
+				}
+			},
+			{
+				"position": [
+					6,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					5
+				],
+				"name": "chest",
+				"properties": {
+					"waterlogged": false,
+					"type": "single",
+					"facing": "west"
+				}
+			},
+			{
+				"position": [
+					6,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					8
+				],
+				"name": "chest",
+				"properties": {
+					"waterlogged": false,
+					"type": "single",
+					"facing": "west"
+				}
+			},
+			{
+				"position": [
+					6,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					9
+				],
+				"name": "wall_torch",
+				"properties": {
+					"facing": "north"
+				}
+			},
+			{
+				"position": [
+					6,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					6,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					6,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					6,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					1
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					2
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					3
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					4
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					5
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					6
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					7
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					8
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					9
+				],
+				"name": "air"
+			},
+			{
+				"position": [
+					7,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					7,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					7,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					0
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					0
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					1
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					1
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					2
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					2
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					3
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					3
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					4
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					4
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					5
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					5
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					6
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					6
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					7
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					7
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					8
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					8
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					9
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					9
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-55,
+					10
+				],
+				"name": "polished_diorite"
+			},
+			{
+				"position": [
+					8,
+					-54,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-53,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-52,
+					10
+				],
+				"name": "oak_planks"
+			},
+			{
+				"position": [
+					8,
+					-51,
+					10
+				],
+				"name": "oak_planks"
+			}
+		]
+	},
+	"containers": {
+		"__Vec3Map__": [
+			{
+				"position": [
+					6,
+					-54,
+					2
+				],
+				"stick": 4
+			},
+			{
+				"position": [
+					6,
+					-54,
+					5
+				],
+				"diamond": 3
+			},
+			{
+				"position": [
+					6,
+					-54,
+					8
+				],
+				"gold_ingot": 3
+			}
+		]
+	},
+	"events": {},
+	"status": {
+		"sally": {
+			"visible": {
+				"position": {
+					"__Vec3__": [
+						2.31,
+						-54,
+						8.8
+					]
+				},
+				"yaw": 5.38,
+				"pitch": 0
+			},
+			"hidden": {}
+		},
+		"player_id": {
+			"visible": {
+				"position": {
+					"__Vec3__": [
+						2.24,
+						-54,
+						2.39
+					]
+				},
+				"yaw": 3.98,
+				"pitch": -0.2
+			},
+			"hidden": {}
+		}
+	}
+}
